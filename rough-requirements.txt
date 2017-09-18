@@ -1,0 +1,20 @@
+- Recruit website
+ - Employer
+ - Candidate
+ - Partner
+
+
+Requirements : 
+ - Server/backend
+ - Frontend
+ - Algos?
+
+POC : 
+
+Server - Use Existing
+Frontend - Move to native javascript
+
+
+Variations -
+- Native Javascript
+- React
